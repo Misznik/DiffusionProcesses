@@ -1,0 +1,17 @@
+graph {Alice--Bob [ label = 2 ];
+Alice--Carl [ label = 3 ];
+Alice--David [ label = 1 ];
+Alice--Ernst [ label = 5 ];
+Alice--Frank [ label = 1 ];
+Bob--Gail [ label = 1 ];
+Carl--David [ label = 1 ];
+Carl--Frank [ label = 2 ];
+Ernst--Frank [ label = 10 ];
+Gail--Harry [ label = 2 ];
+Gail--Jen [ label = 1 ];
+Gail--Irene [ label = 3 ];
+Harry--Jen [ label = 4 ];
+Harry--Irene [ label = 2 ];
+Irene--Jen [ label = 5 ];
+Yurij;
+}
